@@ -30,5 +30,9 @@ D-Money is a demo financial project that simulates fake money transfers. I autom
   [Click to view the Test Case](https://docs.google.com/spreadsheets/d/18nXleDQE4QTW-3-rAbkzLa38XaCrCR0M1AbbCQm-JYs/edit?usp=sharing)
 ## Bug Report for the Project
   [Click to view the Bug Report](https://docs.google.com/spreadsheets/d/1KS6V5ZrDTt26Ch4FFu3WpP8Xv3k9G_4V11qt4hXTorM/edit?usp=sharing)
+
+## Newman Report 
+![image](https://github.com/user-attachments/assets/9453b2e3-91c3-4233-b3e7-bae8f3137ed3)
+
   
   
